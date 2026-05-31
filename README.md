@@ -20,24 +20,6 @@ I'm a **Python Backend Developer** from **Egypt**, passionate about building cle
 
 Currently diving deep into **C programming** and **Operating Systems** — studying CS fundamentals from **MIT** and **Harvard** courses to strengthen my understanding of how systems work under the hood. I believe that understanding low-level concepts makes you a significantly better high-level developer.
 
-```python
-class ZetDev:
-    def __init__(self):
-        self.name = "Mohamed Haithem"
-        self.alias = "Zet Dev"
-        self.role = "Python Backend Developer"
-        self.location = "Egypt"
-        self.learning = ["C", "Operating Systems", "Computer Science Fundamentals"]
-        self.education = ["MIT OCW", "Harvard CS50"]
-    
-    def current_focus(self):
-        return [
-            "Building production-ready APIs with FastAPI",
-            "Studying systems programming with C",
-            "Deep-diving into OS internals & architecture"
-        ]
-```
-
 ---
 
 ## 🛠️ Tech Stack
